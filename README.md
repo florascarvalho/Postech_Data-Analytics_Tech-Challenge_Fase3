@@ -1,4 +1,4 @@
-<h1>TECHCHALLENGE - Fase 3 - Pós Tech Data Analytics - FIAP</h1>
+<h1>TECH CHALLENGE - Fase 3 - Pós Tech Data Analytics - FIAP</h1>
 <h3>Base de Dados</h3>
 As informações iniciais estão disponíveis no PNAD-COVID-19, publicado pelo IBGE
  (https://covid19.ibge.gov.br/pnad-covid/).
